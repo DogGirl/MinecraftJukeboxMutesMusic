@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+showAsResourcePack=false
+
+[[mods]]
+  modId="jukeboxmutes"
+  version="1.0.0.0"
+  displayName="Jukebox Mutes Music"
+  authors="MsDogGirl"
+  description='''
+  Friendly fire mod that adds a button to disable the ability to attack configurable mobs.
+  '''
+

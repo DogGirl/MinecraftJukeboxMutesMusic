@@ -1,14 +1,21 @@
 modLoader="javafml"
-loaderVersion="[47,)"
+loaderVersion="[46,)"
 license="MIT"
 showAsResourcePack=false
 
 [[mods]]
   modId="jukeboxmutes"
-  version="1.0.0.0"
+  version="0.0.0"
   displayName="Jukebox Mutes Music"
   authors="MsDogGirl"
   description='''
-  Friendly fire mod that adds a button to disable the ability to attack configurable mobs.
+  When a music disc plays, mutes the game music. Fixes music overlap issue.
   '''
+  displayTest="MATCH_VERSION"
 
+[[dependencies.jukeboxmutes]]
+  modId="minecraft"
+  mandatory=true
+  versionRange="[1.20.1]"
+  ordering="NONE"
+  side="BOTH"

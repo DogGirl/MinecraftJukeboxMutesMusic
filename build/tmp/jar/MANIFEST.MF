@@ -5,5 +5,5 @@ Specification-Version: 1
 Implementation-Title: Jukebox Mutes Music
 Implementation-Version: 1.0.0
 Implementation-Vendor: YourNameHere, OtherNameHere
-Implementation-Timestamp: 2025-07-06T14:14:55+0200
+Implementation-Timestamp: 2026-01-29T09:24:30+0200
 
